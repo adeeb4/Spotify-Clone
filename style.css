@@ -40,14 +40,15 @@ nav ul li{
 .container{
     min-height: 72vh;
     background-color: black;
-    color: white;
+    color: black;
    font-family: 'Varela Round', sans-serif;
    display: flex;
    margin: 23px auto;
-   width: 70%;
+   width: 83%;
    border-radius: 12px;
    padding: 34px;
-   background-image: url('bg.jpg');
+   background-image: url('cp.jpg');
+   background-size: 113%;
 }
 
 .bottom{
